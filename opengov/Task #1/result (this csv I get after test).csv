@@ -1,0 +1,10 @@
+Column1, Column2, Column3, Column4, Column5
+Date of step performance: Fri Jun 16 09:10:46 PDT 2017, Method: load() step 1 of the test OpenPositionTestingOfEngeneersInRW, Result Success,XXXXXXXX,Found position: Director of Quality Assurance
+Date of step performance: Fri Jun 16 09:10:47 PDT 2017, Method: openCompany() step 2 of the testOpenPositionTestingOfEngeneersInRW, Result Success,XXXXXXXX,Found position: Senior Software Engineer
+Date of step performance: Fri Jun 16 09:10:50 PDT 2017, Method: selectCareer() step 3 of the testOpenPositionTestingOfEngeneersInRW, Result Success,XXXXXXXX,Found position: Senior Software Engineer - Platform
+Date of step performance: Fri Jun 16 09:10:51 PDT 2017, Method: selectViewOpenPositions() step 5 of the testOpenPositionTestingOfEngeneersInRW, Result Success,XXXXXXXX,
+Date of step performance: Fri Jun 16 09:10:51 PDT 2017, Method: selectEngineering() step 6 of the testOpenPositionTestingOfEngeneersInRW, Result Success,XXXXXXXX,
+Date of step performance: Fri Jun 16 09:10:51 PDT 2017, Method: selectCity() step 7 of the testOpenPositionTestingOfEngeneersInRW, Result Success,XXXXXXXX,
+Date of step performance: Fri Jun 16 09:10:51 PDT 2017, Method: assertIfOpenPositonsExistsAndWhatWhePositions() step 8 of the testOpenPositionTestingOfEngeneersInRW, Result Success 3 Open positions found,XXXXXXXX,
+Date of step performance: Fri Jun 16 09:10:55 PDT 2017, Method: assertPositionsCanBeOpenedAndCheckInside(), Result Success 3 position pages open well,XXXXXXXX,
+Total duration of the test: OpenPositionTestingOfEngeneersInRW is: 13 seconds

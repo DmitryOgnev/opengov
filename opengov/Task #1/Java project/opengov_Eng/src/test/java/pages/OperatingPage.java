@@ -21,6 +21,7 @@ public class OperatingPage extends Base
 		super(driver);
 	}
 	
+	
 	            //·      Select Careers from Company tab drop-down menu 1.1
 	
 	public void openCompany(){                                   
@@ -38,6 +39,7 @@ public class OperatingPage extends Base
 	}
 	
 	
+	
 	           //·      Select Careers from Company tab drop-down menu 1.2
 	
 	public void selectCareer(){                                                                             // try catch helps to save fail result into csv in case of fail                          
@@ -53,6 +55,7 @@ public class OperatingPage extends Base
 			   printSave("Fail", "selectCareer() step 4 of the test"+ MainTest.Testname);                                                         // Or Write negative result
 		}                                  
 	}
+	
 	
 	
 	           //·      Click View Open Positions button
@@ -73,6 +76,7 @@ public class OperatingPage extends Base
 	}
 	
 	
+	
 	          //·      Select Engineering from By Team drop-down
 	
 	public void selectEngineering() {
@@ -89,6 +93,7 @@ public class OperatingPage extends Base
 		}               
 		
 	}
+	
 	
 	
 	         //·      Find all open positions in Redwood City

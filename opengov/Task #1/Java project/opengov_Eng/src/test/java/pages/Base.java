@@ -39,6 +39,10 @@ public class Base
 		catch (IOException e) {e.printStackTrace();}
 	}
 	
+	
+	
+	
+	
 	public void load() {                           // Method, just opened the page
 		startDate = new Date();
 		try {
@@ -52,13 +56,16 @@ public class Base
 	    }       
 	}
 	
+	
+
 	public void printSave(String success, String method) {              // Method, that puts all steps into the stepList list
 		String finalString = "Date of step performance: " + new Date() + ", Method: " + method + ", Result " + success + ",";   // Here we create the ready string that will be put into stepList list 
 		
 		System.out.println(finalString);
-		stepList.add(finalString);
-		
+		stepList.add(finalString);	
 	}
+	
+	
 	
 	public void printSavePositions(String string){            // Method, that puts all steps into the foundPositions list
 		
@@ -66,6 +73,8 @@ public class Base
 		foundPositions.add("Found position: " + string);
 		
 	}
+	
+	
 	
 	//·      Given results save in .csv or word format file where print the test run time and test results
 	
